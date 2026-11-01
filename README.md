@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Achik Hussain — Junior DevOps & Cloud Infrastructure Engineer" />
+<img src="assets/hero.svg" width="100%" alt="Achik Hussain — Junior DevSecOps & Cloud Engineer" />
 
-# Hi there, I'm Achik Hussain 👋
+# 👋 Hi, I'm Achik Hussain
 
-### Junior DevOps & Cloud Infrastructure Engineer
-📍 **Assam, India** &nbsp;|&nbsp; 🎓 **Diploma in Computer Science & Engineering**
+### 🚀 Junior DevSecOps & Cloud Engineer | Azure | Terraform | CI/CD
 
-> **"Always Learning, Always Building 🚀"**
+**Always Learning, Always Building 🚀**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/achik-hussain" target="_blank">
@@ -29,91 +28,212 @@
 
 </div>
 
----
+I am an IT Infrastructure and DevOps professional passionate about Cloud Engineering, Infrastructure as Code, CI/CD automation, and DevSecOps practices.
 
-### 👨‍💻 About Me
+I have around **2 years of IT experience**, including around **1 year of DevOps engineering experience**, working with Microsoft Azure, Terraform, Git, GitHub Actions, and Azure DevOps.
 
-I am a **Junior DevOps & Cloud Infrastructure Engineer** with a **Diploma in Computer Science & Engineering** from **Assam, India**.
-
-My technical focus centers on provisioning scalable cloud infrastructure using **Microsoft Azure** and **Terraform (Infrastructure as Code)**, while building automated **CI/CD pipelines with Azure DevOps and GitHub Actions**.
-
-I believe in automating repeatable tasks, maintaining infrastructure as version-controlled code, and continuously strengthening my skills through hands-on laboratory projects.
+My goal is to build secure, scalable, reliable, and automated cloud infrastructure while continuously improving my technical skills.
 
 ---
 
-### 🛠️ Technical Skills
+## 🧭 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Cloud Platform** | Microsoft Azure (VNets, Subnets, NSGs, Storage Accounts, Managed Identities) |
-| **Infrastructure as Code (IaC)** | Terraform (Modules, Remote State, Azure Blob Backend) |
-| **CI/CD & Delivery** | Azure DevOps (YAML Pipelines), GitHub Actions |
-| **Version Control** | Git, GitHub, Azure Repos |
-| **Operating Systems & Scripting** | Linux (Ubuntu, RHEL), Bash Scripting, PowerShell, Python |
-| **Quality & Cost Tools** | TFLint, Checkov, Gitleaks, Infracost |
+- 👨‍💻 **Role:** Junior DevSecOps & Cloud Engineer
+- 📍 **Location:** Assam, India 🇮🇳
+- 🎓 **Education:** Diploma in Computer Science & Engineering
+- ☁️ **Cloud Platform:** Microsoft Azure
+- 🏗️ **Infrastructure as Code:** Terraform
+- 🔄 **CI/CD:** GitHub Actions & Azure DevOps
+- 🔐 **Interest:** DevSecOps, Cloud Security & Automation
+- 🌱 **Currently learning:** Advanced Terraform, Azure Landing Zones and DevSecOps practices.
 
----
+**My engineering philosophy:**
 
-### 🚀 Featured Projects
-
-#### ☁️ 1. Azure Infrastructure Automation with Terraform
-- Built modular Terraform configurations to provision Azure Virtual Networks, Subnets, and Network Security Groups (NSGs).
-- Configured a private Azure Blob Storage backend with state lease locking to ensure safe, team-based deployments.
-- Structured code into reusable modules to deploy isolated development and test environments.
-
-#### 🔁 2. Multi-Stage CI/CD Pipelines (Azure DevOps & GitHub Actions)
-- Created multi-stage YAML pipelines to validate infrastructure code prior to merging pull requests.
-- Integrated automated formatting (`terraform fmt`), syntax validation (`terraform validate`), and plan generation.
-- Enforced branch policies and approval gates before deploying changes to live cloud resources.
-
-#### 🔐 3. Pre-Flight IaC Security & Cost Visibility
-- Integrated `Gitleaks` into repository workflows to catch accidentally exposed secrets and API keys.
-- Utilized `Checkov` to scan Terraform code for security misconfigurations and best practices.
-- Implemented `Infracost` in pull requests to calculate estimated monthly cloud expenditure before applying changes.
-
-#### 🐧 4. Linux & Cloud Automation Scripting
-- Authored Bash and PowerShell automation scripts for routine cloud operational tasks.
-- Automated log rotation, system health checks, and Azure CLI resource queries.
+> *If you configure it manually once, automate it in code the second time.*
 
 ---
 
-### 📚 Currently Learning & Exploring
+## 🛠️ Technical Skills
 
-- 🌐 **Advanced Azure Networking:** Hub-and-Spoke topologies, VNet peering, and Azure Firewall rules.
-- 🏗️ **Terraform Best Practices:** Complex dynamic blocks, module testing, and automated drift detection.
-- 📊 **Cloud Monitoring:** Gaining deeper experience with Azure Monitor, Log Analytics, and KQL queries.
-- 🚀 **Pipeline Reliability:** Implementing deployment environments, rollback strategies, and safe release patterns.
+### ☁️ Cloud & Infrastructure
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🔄 DevOps & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🔐 DevSecOps & Security Tools
+
+![Checkov](https://img.shields.io/badge/Checkov-5C4EE5?style=for-the-badge)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-DC2626?style=for-the-badge)
+![TFLint](https://img.shields.io/badge/TFLint-844FBA?style=for-the-badge)
+![tfsec](https://img.shields.io/badge/tfsec-0F766E?style=for-the-badge)
+![Infracost](https://img.shields.io/badge/Infracost-9333EA?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="DevSecOps Pipeline Blueprint" />
+</div>
+
+<br/>
+
+### 1. Azure Infrastructure Automation using Terraform
+
+**Technologies:** `Azure` | `Terraform` | `Git` | `IaC`
+
+- Building reusable Terraform modules for Azure infrastructure.
+- Working with Resource Groups, Virtual Networks, Storage Accounts and Key Vault.
+- Exploring remote state management using Azure Storage.
+- Practicing variables, locals, maps, `for_each` and lifecycle meta-arguments.
+- Learning infrastructure provisioning through reusable configurations.
+
+### 2. CI/CD Automation with GitHub Actions
+
+**Technologies:** `GitHub` | `GitHub Actions` | `YAML`
+
+- Creating automated GitHub Actions workflows.
+- Configuring push and pull request triggers.
+- Automating README validation and repository checks.
+- Exploring CI/CD best practices and workflow permissions.
+
+### 3. Azure DevOps CI/CD Pipeline
+
+**Technologies:** `Azure DevOps` | `YAML` | `Terraform`
+
+- Working with multi-stage YAML pipelines.
+- Practicing Terraform initialization, validation and planning.
+- Exploring remote backend integration.
+- Learning branch-based conditions and deployment approvals.
+- Working with service connections and self-hosted agents.
+
+### 4. Air-Cooled Chiller Monitoring System Automation
+
+**Technologies:** `Microsoft Azure` | `Terraform` | `GitHub Actions` | `Azure Monitor`
+
+- Supporting cloud infrastructure automation using Terraform.
+- Exploring monitoring and centralized logging with Azure Monitor and Log Analytics.
+- Working around infrastructure deployment and CI/CD workflows.
+- Learning cloud infrastructure design for monitoring applications.
+
+---
+
+## 🔄 My DevSecOps Workflow
+
+```text
+       DEVELOPER
+           |
+           v
+      Git / GitHub
+           |
+           v
+       CI Pipeline
+           |
+           v
+    Terraform Validation
+           |
+           v
+     Security Scanning
+           |
+           v
+       Cost Analysis
+           |
+           v
+      Review & Approval
+           |
+           v
+     Infrastructure Deploy
+           |
+           v
+      Azure Cloud
+```
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=achikhussain12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+**`PLAN` → `CODE` → `BUILD` → `SCAN` → `REVIEW` → `DEPLOY` → `MONITOR`**
 
-<br/><br/>
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Terraform and reusable modules.
+- Azure Landing Zone architecture.
+- Azure RBAC, Key Vault and cloud security.
+- GitHub Actions CI/CD automation.
+- Azure DevOps multi-stage pipelines.
+- Infrastructure security scanning.
+- Cloud monitoring and governance.
+- DevSecOps fundamentals.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=achikhussain12&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </picture>
 
 </div>
 
 ---
 
-### 📬 Contact & Connect
+## 🎯 My Core Principles
 
-- 💼 **LinkedIn:** [linkedin.com/in/achik-hussain](https://www.linkedin.com/in/achik-hussain)
-- ✉️ **Email:** [hussainachik456@gmail.com](mailto:hussainachik456@gmail.com)
-- 📱 **Mobile / WhatsApp:** [+91 8724872091](tel:+918724872091)
-- 🐙 **GitHub:** [github.com/achikhussain12](https://github.com/achikhussain12)
-- 📍 **Location:** Assam, India
+- Automate repetitive tasks.
+- Build infrastructure using code.
+- Follow security best practices.
+- Learn through practical projects.
+- Document every important implementation.
+- Improve continuously.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <br/>
-  <i>"Always Learning, Always Building 🚀"</i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achik-hussain)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-achikhussain12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achikhussain12)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainachik456@gmail.com)
+
+<br/>
+
+📱 **Mobile / WhatsApp:** [+91 8724872091](tel:+918724872091) &nbsp;•&nbsp; 📍 **Assam, India 🇮🇳**
+
+<br/>
+
+### 🚀 Always Learning, Always Building.
+
+**Build with Purpose. Automate with Confidence. Secure by Design.**
+
 </div>

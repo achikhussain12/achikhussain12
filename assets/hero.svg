@@ -1,90 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Achik Hussain, Junior DevSecOps and Cloud Infrastructure Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Achik Hussain, Cloud and DevSecOps engineering">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#020617"/>
-    <stop offset="50%" stop-color="#0b1b36"/>
-    <stop offset="100%" stop-color="#1f1138"/>
-  </linearGradient>
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00F0FF"/>
-    <stop offset="50%" stop-color="#38BDF8"/>
-    <stop offset="100%" stop-color="#A855F7"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00D084"/>
-    <stop offset="100%" stop-color="#00F0FF"/>
-  </linearGradient>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-opacity="0.08"/>
-  </pattern>
-  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-    <feGaussianBlur stdDeviation="16" result="blur"/>
-  </filter>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#102342"/><stop offset="1" stop-color="#30145b"/></linearGradient>
+  <linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity=".09"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
 </defs>
-
-<!-- BACKGROUND RECTANGLES -->
-<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
-
-<!-- GLOWING BACKGROUND ORBS -->
-<circle cx="1060" cy="100" r="150" fill="#00F0FF" opacity="0.12" filter="url(#glow)"/>
-<circle cx="1020" cy="250" r="130" fill="#A855F7" opacity="0.16" filter="url(#glow)"/>
-<circle cx="150" cy="70" r="100" fill="#0078D4" opacity="0.08" filter="url(#glow)"/>
-
-<!-- SUBTLE CYBER CIRCUIT WAVE -->
-<path d="M0 290 Q 300 240 600 305 T 1200 260" stroke="url(#neon)" stroke-opacity="0.35" stroke-width="2" fill="none"/>
-
-<!-- TYPOGRAPHY -->
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
-  <!-- CATEGORY PILL BADGE -->
-  <rect x="70" y="46" width="370" height="30" rx="15" fill="#00F0FF" fill-opacity="0.08" stroke="#00F0FF" stroke-opacity="0.3" stroke-width="1.5"/>
-  <circle cx="88" cy="61" r="4.5" fill="#00F0FF"/>
-  <text x="102" y="67" font-size="13" font-weight="700" fill="#00F0FF" letter-spacing="2.5">CLOUD  /  DEVOPS  /  AUTOMATION</text>
-  
-  <!-- MAIN NAME: ACHIK HUSSAIN -->
-  <text x="68" y="148" font-size="62" font-weight="900" fill="#ffffff" letter-spacing="1">ACHIK</text>
-  <text x="290" y="148" font-size="62" font-weight="900" fill="url(#neon)" letter-spacing="1">HUSSAIN</text>
-  
-  <!-- SUBTITLE -->
-  <text x="70" y="202" font-size="24" font-weight="700" fill="#e2e8f0">Junior DevOps &amp; Cloud Infrastructure Engineer</text>
-  
-  <!-- TECH FOCUS & SKILLS -->
-  <text x="70" y="244" font-size="16" font-weight="600" fill="#94a3b8" letter-spacing="1">AZURE CLOUD  •  TERRAFORM (IaC)  •  CI/CD AUTOMATION</text>
-  
-  <!-- LOCATION & MOTTO -->
-  <text x="70" y="286" font-size="15" font-weight="700" fill="url(#accent)" letter-spacing="0.5">📍 ASSAM, INDIA  •  ALWAYS LEARNING, ALWAYS BUILDING 🚀</text>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="1060" cy="90" r="145" fill="#06b6d4" opacity=".13" filter="url(#glow)"/>
+<circle cx="1030" cy="255" r="130" fill="#a78bfa" opacity=".15" filter="url(#glow)"/>
+<path d="M0 300 Q270 250 510 315 T1200 270" stroke="url(#neon)" stroke-opacity=".35" stroke-width="2" fill="none"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <text x="70" y="76" font-size="19" fill="#67e8f9" letter-spacing="4">CLOUD  /  SECURITY  /  AUTOMATION</text>
+  <text x="66" y="155" font-size="58" font-weight="bold" fill="#f8fafc">ACHIK</text>
+  <text x="66" y="217" font-size="58" font-weight="bold" fill="url(#neon)">HUSSAIN</text>
+  <text x="70" y="265" font-size="23" fill="#cbd5e1">Junior DevSecOps &amp; Cloud Engineer</text>
+  <text x="70" y="303" font-size="17" fill="#94a3b8">ASSAM, INDIA  •  ALWAYS LEARNING, ALWAYS BUILDING 🚀</text>
 </g>
-
-<!-- DEVSECOPS VECTOR GRAPHIC (RIGHT SIDE) -->
-<g transform="translate(890, 65)">
-  <!-- Cloud Vector Outline -->
-  <path d="M 60 140 H 220 C 255 140 265 95 230 85 C 225 50 175 35 150 60 C 125 30 70 45 70 85 C 35 90 40 140 60 140 Z" 
-        stroke="url(#neon)" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  
-  <!-- DevSecOps Shield in the Cloud -->
-  <path d="M 140 95 L 165 105 V 125 C 165 140 140 152 140 152 C 140 152 115 140 115 125 V 105 Z" 
-        stroke="#00D084" stroke-width="2.5" fill="#0b1b36" fill-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="140" cy="120" r="3" fill="#00D084"/>
-  <path d="M 140 123 V 132" stroke="#00D084" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- Circuit nodes extending below cloud -->
-  <path d="M 140 155 V 185" stroke="url(#neon)" stroke-width="2.5" stroke-dasharray="4,4"/>
-  <circle cx="140" cy="190" r="5" fill="#00F0FF"/>
-  
-  <path d="M 90 140 V 175 H 115" stroke="#A855F7" stroke-width="2"/>
-  <circle cx="90" cy="175" r="4" fill="#A855F7"/>
-  
-  <path d="M 190 140 V 175 H 165" stroke="#00F0FF" stroke-width="2"/>
-  <circle cx="190" cy="175" r="4" fill="#00F0FF"/>
+<g transform="translate(910 92)" stroke="url(#neon)" stroke-width="4" fill="none">
+  <path d="M45 106H173c30 0 36-43 5-49-3-31-45-47-66-23C89 5 40 21 41 53 9 59 13 106 45 106Z"/>
+  <path d="M108 106v42m-25-16 25 16 25-16M108 148v20"/>
+  <circle cx="108" cy="174" r="8" fill="#22d3ee" stroke="none"/>
+  <path d="M54 158H77m62 0h23"/>
 </g>
-
-<!-- LIVE STATUS PULSING INDICATOR (TOP RIGHT) -->
-<g transform="translate(1135, 34)">
-  <circle cx="0" cy="0" r="8" fill="#00D084" opacity="0.25">
-    <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="0" cy="0" r="4.5" fill="#00D084"/>
-  <text x="-75" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#00D084" letter-spacing="1">AVAILABLE</text>
-</g>
+<circle cx="1164" cy="34" r="5" fill="#22d3ee">
+  <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/>
+</circle>
 </svg>

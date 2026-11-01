@@ -1,83 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="DevSecOps CI/CD Staged Pipeline">
-<defs>
-  <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0a192f"/>
-    <stop offset="100%" stop-color="#111827"/>
-  </linearGradient>
-  <linearGradient id="pneon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00F0FF"/>
-    <stop offset="100%" stop-color="#A855F7"/>
-  </linearGradient>
-  <filter id="pglow">
-    <feGaussianBlur stdDeviation="8" result="blur"/>
-  </filter>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="DevSecOps flow from Git to Terraform, scanning, approval and Azure">
+<defs><linearGradient id="bg"><stop stop-color="#081326"/><stop offset="1" stop-color="#182447"/></linearGradient><linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="230" rx="20" fill="url(#bg)"/>
+<text x="42" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="22" fill="#e2e8f0" font-weight="bold">SECURE DELIVERY • PIPELINE BLUEPRINT</text>
+<path d="M132 134H1068" stroke="url(#line)" stroke-width="4" stroke-dasharray="9 8"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="18" text-anchor="middle" font-weight="bold">
+<rect x="15" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="115" y="127" fill="#67e8f9">COMMIT</text>
+<text x="115" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Git / GitHub / Repos</text>
 
-<rect width="1000" height="220" rx="16" fill="url(#pbg)" stroke="#1e293b" stroke-width="2"/>
+<rect x="250" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="350" y="127" fill="#67e8f9">VALIDATE</text>
+<text x="350" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Terraform (IaC)</text>
 
-<!-- STAGE 1: PLAN -->
-<g transform="translate(40, 35)">
-  <rect width="150" height="150" rx="12" fill="#0f172a" stroke="#0078D4" stroke-width="2"/>
-  <circle cx="75" cy="45" r="22" fill="#0078D4" fill-opacity="0.2"/>
-  <text x="75" y="52" font-family="sans-serif" font-size="20" font-weight="bold" fill="#0078D4" text-anchor="middle">01</text>
-  <text x="75" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">PLAN</text>
-  <text x="75" y="125" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">Terraform / Git</text>
-  <text x="75" y="145" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Azure Repos</text>
+<rect x="485" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="585" y="127" fill="#67e8f9">SCAN</text>
+<text x="585" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Checkov + Gitleaks</text>
+
+<rect x="720" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="820" y="127" fill="#67e8f9">APPROVE</text>
+<text x="820" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">PR / Main Gate</text>
+
+<rect x="960" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="1060" y="127" fill="#67e8f9">DEPLOY</text>
+<text x="1060" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Microsoft Azure</text>
 </g>
-
-<!-- ARROW 1 -->
-<path d="M 205 110 L 225 110" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
-<polygon points="225,105 235,110 225,115" fill="#38bdf8"/>
-
-<!-- STAGE 2: SCAN -->
-<g transform="translate(245, 35)">
-  <rect width="150" height="150" rx="12" fill="#0f172a" stroke="#FF6F00" stroke-width="2"/>
-  <circle cx="75" cy="45" r="22" fill="#FF6F00" fill-opacity="0.2"/>
-  <text x="75" y="52" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FF6F00" text-anchor="middle">02</text>
-  <text x="75" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">SCAN</text>
-  <text x="75" y="125" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">Checkov / tfsec</text>
-  <text x="75" y="145" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Gitleaks / TFLint</text>
-</g>
-
-<!-- ARROW 2 -->
-<path d="M 410 110 L 430 110" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-<polygon points="430,105 440,110 430,115" fill="#38bdf8"/>
-
-<!-- STAGE 3: COST -->
-<g transform="translate(450, 35)">
-  <rect width="150" height="150" rx="12" fill="#0f172a" stroke="#00D084" stroke-width="2"/>
-  <circle cx="75" cy="45" r="22" fill="#00D084" fill-opacity="0.2"/>
-  <text x="75" y="52" font-family="sans-serif" font-size="20" font-weight="bold" fill="#00D084" text-anchor="middle">03</text>
-  <text x="75" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">REVIEW COST</text>
-  <text x="75" y="125" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">Infracost FinOps</text>
-  <text x="75" y="145" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">PR Cost Diff</text>
-</g>
-
-<!-- ARROW 3 -->
-<path d="M 615 110 L 635 110" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-<polygon points="635,105 645,110 635,115" fill="#38bdf8"/>
-
-<!-- STAGE 4: APPROVE -->
-<g transform="translate(655, 35)">
-  <rect width="150" height="150" rx="12" fill="#0f172a" stroke="#A855F7" stroke-width="2"/>
-  <circle cx="75" cy="45" r="22" fill="#A855F7" fill-opacity="0.2"/>
-  <text x="75" y="52" font-family="sans-serif" font-size="20" font-weight="bold" fill="#A855F7" text-anchor="middle">04</text>
-  <text x="75" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">APPROVE</text>
-  <text x="75" y="125" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">Protected Main</text>
-  <text x="75" y="145" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Manual Gate</text>
-</g>
-
-<!-- ARROW 4 -->
-<path d="M 820 110 L 840 110" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-<polygon points="840,105 850,110 840,115" fill="#38bdf8"/>
-
-<!-- STAGE 5: APPLY -->
-<g transform="translate(860, 35)">
-  <rect width="100" height="150" rx="12" fill="#0f172a" stroke="#00F0FF" stroke-width="2"/>
-  <circle cx="50" cy="45" r="22" fill="#00F0FF" fill-opacity="0.2"/>
-  <text x="50" y="52" font-family="sans-serif" font-size="20" font-weight="bold" fill="#00F0FF" text-anchor="middle">05</text>
-  <text x="50" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">APPLY</text>
-  <text x="50" y="125" font-family="sans-serif" font-size="11" fill="#94a3b8" text-anchor="middle">Azure Cloud</text>
-  <text x="50" y="145" font-family="sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Terraform</text>
-</g>
+<text x="42" y="207" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="15">Illustrative architecture • scan and approval gates vary by pipeline configuration</text>
 </svg>
