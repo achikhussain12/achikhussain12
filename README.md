@@ -43,18 +43,24 @@
 
 <div align="center">
 
+<!-- AUTOMATION PHILOSOPHY ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1100&color=00F0FF&center=true&vCenter=true&width=820&height=50&lines=From+manual+portal+clicks+%E2%86%92+to+modular+Terraform+IaC;From+local+scripts+%E2%86%92+to+automated+Azure+DevOps+pipelines;From+unmonitored+resources+%E2%86%92+to+observable+cloud+telemetry;Always+Learning+%E2%80%A2+Always+Automating+%E2%80%A2+Always+Building+%F0%9F%9A%80" alt="Automation Philosophy Animation" />
+
+<p><b>Bridging Developer Agility with Automated, Observable &amp; Cost-Effective Cloud Infrastructure.</b></p>
+
 ```zsh
-achik@azure-cloud:~$ ./profile.sh --status
+achik@azure-cloud:~$ cat /etc/profile.d/devops.env
 ```
 
 ```yaml
-Name:        Achik Hussain
-Role:        Junior DevOps & Cloud Infrastructure Engineer
-Origin:      Assam, India 🇮🇳
-Education:   Diploma in Computer Science & Engineering
-Core Stack:  Microsoft Azure · Terraform (IaC) · Azure DevOps Pipelines · Linux
-Philosophy:  "Automate the repetitive. Version-control everything. Measure before deploying."
-Mission:     Building reliable, cost-efficient, and repeatable cloud infrastructure.
+ENGINEER:      "Achik Hussain"
+LOCATION:      "Assam, India 🇮🇳"
+EDUCATION:     "Diploma in Computer Science & Engineering"
+ROLE:          "Junior DevOps & Cloud Infrastructure Engineer"
+PRIMARY_STACK: ["Microsoft Azure", "Terraform (IaC)", "Azure DevOps Pipelines", "Linux / Bash"]
+AUTOMATION:    ["YAML Pipelines", "GitHub Actions", "Infracost (FinOps)", "Checkov", "Gitleaks"]
+CORE_MOTTO:    "If you configure it manually once, automate it in code the second time."
+STATUS:        "🟢 Actively Building Real Cloud Labs & Ready for Junior DevOps Opportunities"
 ```
 
 </div>
@@ -65,17 +71,18 @@ Mission:     Building reliable, cost-efficient, and repeatable cloud infrastruct
 
 ### 👋 Hello, I’m Achik
 
-I am a driven **Junior DevOps & Cloud Infrastructure Engineer** with a solid foundation from my **Diploma in Computer Science & Engineering** in **Assam, India**.
+I am a **Diploma in Computer Science & Engineering** student from **Assam, India**, dedicated to mastering **Microsoft Azure, Infrastructure as Code (IaC), and automated CI/CD engineering**.
 
-My technical passion centers on transforming manual sysadmin tasks into **declarative, repeatable Infrastructure as Code (Terraform)**, architecting scalable environments on **Microsoft Azure**, and wiring up automated **Azure DevOps YAML and GitHub Actions pipelines**.
+I enjoy building hands-on cloud architectures: provisioning isolated, secure networks with **modular Terraform**, automating release workflows with **Azure DevOps multi-stage YAML pipelines**, and shifting **pre-commit linting, security scans, and cost checks** earlier into the deployment lifecycle.
 
-I treat infrastructure like software: version-controlled, linted before merge, tested through automated plans, evaluated for cloud cost with **Infracost**, and deployed safely through approval gates.
+My engineering philosophy is simple: **if it's repeatable, automate it; if it's infrastructure, version-control it.** I document my lab experiments, test every plan prior to applying, and continually hone my cloud engineering skills.
 
-**What I focus on daily:**
+**🎯 Daily Engineering Focus:**
 - ☁️ **Azure Cloud & Networking:** Resource Groups, VNets, Subnets, NSGs, Storage Accounts, and Managed Identities.
-- 🏗️ **Terraform Workflows:** Reusable root/child modules, remote state locking in Azure Blob Storage, and drift prevention.
-- 🔁 **CI/CD Automation:** Multi-stage YAML pipelines, approval environments, and automated pull-request validation.
-- 💸 **FinOps Awareness:** Proactive cost breakdown before running `terraform apply`.
+- 🏗️ **Terraform Modules & State:** Reusable environment structure, remote state locking in Azure Blob Storage, and drift detection.
+- 🔁 **CI/CD Pipeline Automation:** Multi-stage YAML workflows, pull-request validations, and gated deployment approvals.
+- 🔐 **Pre-Flight Guardrails:** Secret scanning with `Gitleaks`, IaC linting with `TFLint`, and misconfiguration checks with `Checkov`.
+- 💸 **FinOps Awareness:** Proactive cloud cost estimation using `Infracost` directly inside pull requests.
 
 </td>
 <td width="42%" valign="top">
@@ -90,15 +97,15 @@ I treat infrastructure like software: version-controlled, linted before merge, t
 | 🧱 **IaC** | Terraform (HCL) |
 | 🔁 **CI/CD** | Azure DevOps · GitHub Actions |
 | 📊 **Monitoring** | Azure Monitor · Log Analytics (KQL) |
-| 🐧 **OS & Shell** | Linux (Ubuntu/RHEL) · Bash · PowerShell |
-| 🌱 **Mindset** | Continuous Learning & Building |
+| 🐧 **Systems** | Linux (Ubuntu/RHEL) · Bash · PowerShell |
+| 🌱 **Mode** | Always Learning & Automating |
 
 <div align="center">
 
 <br/>
 
-**Core Delivery Loop**  
-`PLAN` ➔ `LINT` ➔ `COST CHECK` ➔ `APPROVE` ➔ `APPLY`
+**Automated Delivery Loop**  
+`PLAN` ➔ `LINT` ➔ `SCAN` ➔ `COST CHECK` ➔ `APPROVE` ➔ `APPLY`
 
 </div>
 
