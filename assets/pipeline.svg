@@ -1,28 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="DevSecOps flow from Git to Terraform, scanning, approval and Azure">
-<defs><linearGradient id="bg"><stop stop-color="#081326"/><stop offset="1" stop-color="#182447"/></linearGradient><linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1200" height="230" rx="20" fill="url(#bg)"/>
-<text x="42" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="22" fill="#e2e8f0" font-weight="bold">SECURE DELIVERY • PIPELINE BLUEPRINT</text>
-<path d="M132 134H1068" stroke="url(#line)" stroke-width="4" stroke-dasharray="9 8"/>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="18" text-anchor="middle" font-weight="bold">
-<rect x="15" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
-<text x="115" y="127" fill="#67e8f9">COMMIT</text>
-<text x="115" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Git / GitHub / Repos</text>
 
-<rect x="250" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
-<text x="350" y="127" fill="#67e8f9">VALIDATE</text>
-<text x="350" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Terraform (IaC)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00C6FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<rect x="485" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
-<text x="585" y="127" fill="#67e8f9">SCAN</text>
-<text x="585" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Checkov + Gitleaks</text>
+  <rect width="1000" height="190" rx="18"
+    fill="#071426" stroke="#174C77" stroke-width="2"/>
 
-<rect x="720" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
-<text x="820" y="127" fill="#67e8f9">APPROVE</text>
-<text x="820" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">PR / Main Gate</text>
+  <text x="500" y="28" fill="#45D6FF"
+    font-family="Arial" font-size="19"
+    font-weight="bold" text-anchor="middle">
+    DEVSECOPS CI/CD AUTOMATION WORKFLOW
+  </text>
 
-<rect x="960" y="95" width="200" height="84" rx="14" fill="#152a46" stroke="#38bdf8" stroke-opacity=".7"/>
-<text x="1060" y="127" fill="#67e8f9">DEPLOY</text>
-<text x="1060" y="153" font-size="14" font-weight="normal" fill="#cbd5e1">Microsoft Azure</text>
-</g>
-<text x="42" y="207" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial" font-size="15">Illustrative architecture • scan and approval gates vary by pipeline configuration</text>
+  <g font-family="Arial" text-anchor="middle">
+
+    <g transform="translate(18 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#24B8FF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#40D5FF">01</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">Developer</text>
+    </g>
+
+    <g transform="translate(165 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#24B8FF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#40D5FF">02</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">Git / GitHub</text>
+    </g>
+
+    <g transform="translate(312 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#24B8FF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#40D5FF">03</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">GitHub Actions</text>
+    </g>
+
+    <g transform="translate(459 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#24B8FF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#40D5FF">04</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">Terraform</text>
+    </g>
+
+    <g transform="translate(606 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#A47BFF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#B99AFF">05</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">Security Checks</text>
+    </g>
+
+    <g transform="translate(753 58)">
+      <rect width="120" height="72" rx="12"
+        fill="#102D4A" stroke="#A47BFF" stroke-width="2"/>
+      <text x="60" y="29" font-size="23" fill="#B99AFF">06</text>
+      <text x="60" y="51" font-size="13" fill="#FFFFFF">Terraform Plan</text>
+    </g>
+
+  </g>
+
+  <!-- Workflow connectors -->
+  <path d="M138 94 H165 M285 94 H312 M432 94 H459
+           M579 94 H606 M726 94 H753 M873 94 H925"
+    fill="none" stroke="url(#line)" stroke-width="3"
+    stroke-linecap="round" filter="url(#shadow)"/>
+
+  <path d="M919 88 L927 94 L919 100"
+    fill="none" stroke="#A47BFF" stroke-width="3"/>
+
+  <text x="500" y="163" fill="#A9C7E8"
+    font-family="Arial" font-size="13" text-anchor="middle">
+    Code → Validate → Scan → Plan → Deploy to Azure (after approval)
+  </text>
 </svg>
