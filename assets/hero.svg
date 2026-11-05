@@ -1,28 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Achik Hussain, Cloud and DevSecOps engineering">
-<defs>
-  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#102342"/><stop offset="1" stop-color="#30145b"/></linearGradient>
-  <linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity=".09"/></pattern>
-  <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
-</defs>
-<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
-<circle cx="1060" cy="90" r="145" fill="#06b6d4" opacity=".13" filter="url(#glow)"/>
-<circle cx="1030" cy="255" r="130" fill="#a78bfa" opacity=".15" filter="url(#glow)"/>
-<path d="M0 300 Q270 250 510 315 T1200 270" stroke="url(#neon)" stroke-opacity=".35" stroke-width="2" fill="none"/>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-  <text x="70" y="76" font-size="19" fill="#67e8f9" letter-spacing="4">CLOUD  /  SECURITY  /  AUTOMATION</text>
-  <text x="66" y="155" font-size="58" font-weight="bold" fill="#f8fafc">ACHIK</text>
-  <text x="66" y="217" font-size="58" font-weight="bold" fill="url(#neon)">HUSSAIN</text>
-  <text x="70" y="265" font-size="23" fill="#cbd5e1">Junior DevSecOps &amp; Cloud Engineer</text>
-  <text x="70" y="303" font-size="17" fill="#94a3b8">ASSAM, INDIA  •  ALWAYS LEARNING, ALWAYS BUILDING 🚀</text>
-</g>
-<g transform="translate(910 92)" stroke="url(#neon)" stroke-width="4" fill="none">
-  <path d="M45 106H173c30 0 36-43 5-49-3-31-45-47-66-23C89 5 40 21 41 53 9 59 13 106 45 106Z"/>
-  <path d="M108 106v42m-25-16 25 16 25-16M108 148v20"/>
-  <circle cx="108" cy="174" r="8" fill="#22d3ee" stroke="none"/>
-  <path d="M54 158H77m62 0h23"/>
-</g>
-<circle cx="1164" cy="34" r="5" fill="#22d3ee">
-  <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/>
-</circle>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="55%" stop-color="#102B4C"/>
+      <stop offset="100%" stop-color="#071426"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C6FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <circle cx="1030" cy="80" r="155" fill="#0875C9" opacity=".12"/>
+  <circle cx="930" cy="280" r="150" fill="#7146CF" opacity=".13"/>
+
+  <g stroke="#1B91DB" stroke-width="1" opacity=".22">
+    <path d="M0 260 H1200 M0 285 H1200"/>
+    <path d="M700 0 V330 M760 0 V330 M1120 0 V330"/>
+  </g>
+
+  <g transform="translate(835 58)">
+    <path d="M60 95 C15 95 5 55 35 35 C40 5 90 -5 110 25 C145 0 195 20 190 58 C230 72 210 110 175 110 H60Z"
+      fill="none" stroke="#22C5FF" stroke-width="3"/>
+    <path d="M75 72 L112 36 L149 72 L112 108Z"
+      fill="none" stroke="#39A9FF" stroke-width="3"/>
+    <path d="M112 36 V108" stroke="#39A9FF" stroke-width="3"/>
+    <text x="112" y="143" fill="#DCEEFF" font-size="18"
+      text-anchor="middle" font-family="Arial">AZURE CLOUD</text>
+  </g>
+
+  <g transform="translate(1050 205)">
+    <rect width="95" height="62" rx="10" fill="#102B4C"
+      stroke="#00BFFF" stroke-width="2"/>
+    <path d="M20 20 H75 M20 30 H65 M20 40 H55"
+      stroke="#54D8FF" stroke-width="3" stroke-linecap="round"/>
+    <text x="47" y="83" fill="#CDEBFF" text-anchor="middle"
+      font-family="Arial" font-size="14">CI / CD</text>
+  </g>
+
+  <text x="55" y="92" fill="#FFFFFF"
+    font-family="Arial" font-size="52" font-weight="bold">
+    Achik Hussain
+  </text>
+
+  <rect x="55" y="115" width="640" height="46"
+    rx="23" fill="url(#accent)"/>
+
+  <text x="375" y="145" fill="#FFFFFF"
+    font-family="Arial" font-size="20" font-weight="bold"
+    text-anchor="middle">
+    Junior DevSecOps Engineer | Junior Cloud Engineer
+  </text>
+
+  <text x="58" y="205" fill="#DCEBFF"
+    font-family="Arial" font-size="27" font-style="italic">
+    Always Learning, Always Building
+  </text>
+
+  <text x="58" y="245" fill="#A9C7E8"
+    font-family="Arial" font-size="17">
+    Automating Infrastructure • Securing Cloud • Building Scalable Solutions
+  </text>
+
+  <g transform="translate(58 275)">
+    <rect width="180" height="30" rx="15" fill="#102E4B" stroke="#2C9EE8"/>
+    <text x="90" y="20" text-anchor="middle" fill="#DDF4FF"
+      font-family="Arial" font-size="13">AZURE CLOUD</text>
+
+    <rect x="192" width="155" height="30" rx="15" fill="#102E4B" stroke="#2C9EE8"/>
+    <text x="269" y="20" text-anchor="middle" fill="#DDF4FF"
+      font-family="Arial" font-size="13">TERRAFORM</text>
+
+    <rect x="359" width="145" height="30" rx="15" fill="#102E4B" stroke="#2C9EE8"/>
+    <text x="431" y="20" text-anchor="middle" fill="#DDF4FF"
+      font-family="Arial" font-size="13">DEVSECOPS</text>
+  </g>
 </svg>
