@@ -1,44 +1,45 @@
+&#x20;\<div align="center">
 
-<div align="center">
+\<img src="assets/hero.svg" width="100%" alt="Achik Hussain - DevOps and Cloud Infrastructure Engineer"/>
 
-<img src="assets/hero.svg" width="100%" alt="Achik Hussain - Junior DevSecOps and Cloud Engineer"/>
+# Achik Hussain
 
-### 🚀 Junior DevSecOps Engineer | Junior Cloud Engineer
+### DevOps & Cloud Infrastructure Engineer
 
-**Always Learning, Always Building**
+**Azure Cloud | Terraform | Infrastructure as Code | Secure CI/CD**
 
-Automating Infrastructure • Securing Cloud • Building Scalable Solutions
+Assam, India · Diploma in Computer Science & Engineering
 
-<a href="https://github.com/achikhussain12">
-  <img src="https://img.shields.io/badge/GitHub-achikhussain12-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/achik-hussain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hussainachik456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*Always Learning, Always Building.*
 
-</div>
+Automating Infrastructure • Improving Cloud Security • Building Scalable Solutions
+
+\<a href="[https://github.com/achikhussain12](https://github.com/achikhussain12)">   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="[https://www.linkedin.com/in/achik-hussain/](https://www.linkedin.com/in/achik-hussain/)">   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:hussainachik456\@gmail.com">   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
+
+\</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-Hi, I'm **Achik Hussain**, a Junior DevSecOps Engineer and Junior Cloud Engineer passionate about Microsoft Azure, Infrastructure as Code, cloud architecture and automation.
+I am a **DevOps and Cloud Infrastructure Engineer** focused on Microsoft Azure, Infrastructure as Code (IaC), cloud infrastructure automation and secure CI/CD practices.
 
-I enjoy learning and building practical cloud infrastructure solutions using modern DevOps technologies.
+My technical interests include designing and managing cloud infrastructure using Terraform, developing reusable infrastructure modules, implementing Azure Landing Zone concepts, and automating infrastructure workflows using GitHub Actions and YAML pipelines.
 
-- ☁️ Microsoft Azure Cloud
-- 🏗️ Infrastructure as Code using Terraform
-- 🌐 Azure Landing Zone Architecture
-- 🔄 Git and GitHub Version Control
-- ⚙️ YAML-based CI/CD Pipelines
-- 🚀 GitHub Actions Automation
-- 🔐 DevSecOps and Infrastructure Security
-- 📚 Always learning and building new things
+I focus on building practical, maintainable and security-conscious infrastructure solutions while continuously improving my knowledge of cloud engineering and DevSecOps practices.
 
-> If you configure it manually once, automate it in code the second time.
+**Core Focus Areas**
+
+- ☁️ Microsoft Azure Cloud Infrastructure
+- 🏗️ Azure Landing Zone Architecture
+- ⚙️ Terraform & Infrastructure as Code (IaC)
+- 📦 Reusable Terraform Modules
+- 🔄 Git & GitHub Version Control
+- 🚀 GitHub Actions & YAML-based CI/CD
+- 🔐 DevSecOps & Infrastructure Security
+- 📊 Cloud Governance and Infrastructure Management
+
+> My approach: Automate infrastructure, standardize deployments, and integrate security into the development lifecycle.
 
 ---
 
@@ -46,147 +47,152 @@ I enjoy learning and building practical cloud infrastructure solutions using mod
 
 ### ☁️ Cloud & Infrastructure
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Landing_Zone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
+\<p> \<img src="[https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Azure_Landing_Zone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure_Landing_Zone-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)"/> \</p>
+
+### ⚙️ Infrastructure as Code
+
+\<p> \<img src="[https://img.shields.io/badge/Terraform_Modules-844FBA?style=for-the-badge&logo=terraform&logoColor=white](https://img.shields.io/badge/Terraform_Modules-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/IaC-181717?style=for-the-badge](https://img.shields.io/badge/IaC-181717?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Azure_Storage_Backend-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure_Storage_Backend-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)"/> \</p>
 
 ### 🔄 Version Control & CI/CD
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
-</p>
+\<p> \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge\&logo=yaml\&logoColor=white)"/> \</p>
 
-### 🔐 DevSecOps & Automation
+### 🔐 DevSecOps & Security Automation
 
-<p>
-<img src="https://img.shields.io/badge/DevSecOps-20232A?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+\<p> \<img src="[https://img.shields.io/badge/DevSecOps-20232A?style=for-the-badge](https://img.shields.io/badge/DevSecOps-20232A?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Checkov-181717?style=for-the-badge](https://img.shields.io/badge/Checkov-181717?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/TFLint-623CE4?style=for-the-badge](https://img.shields.io/badge/TFLint-623CE4?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/tfsec-0078D4?style=for-the-badge](https://img.shields.io/badge/tfsec-0078D4?style=for-the-badge)"/> \</p>
+
+*Security tools above represent areas of focus; individual implementations should be documented in the relevant repositories.*
 
 ---
 
-## 🏗️ Terraform & Azure Knowledge
+## 🏗️ Terraform & Azure Infrastructure Knowledge
 
-| Category | Technologies / Concepts |
-|---|---|
-| Cloud | Microsoft Azure |
-| IaC | Terraform |
-| Terraform | Providers, Resources, Data Sources |
-| Advanced Terraform | Variables, Locals, Maps, Objects |
-| Meta Arguments | for_each, count, lifecycle, depends_on |
-| State Management | Azure Storage Remote Backend |
-| Modules | Reusable Parent & Child Modules |
-| Azure Services | Resource Groups, VNet, VM, Storage, Key Vault |
-| Architecture | Azure Landing Zone concepts |
-| CI/CD | YAML Pipelines, GitHub Actions |
+| Category                | Technologies / Concepts                        |
+| ----------------------- | ---------------------------------------------- |
+| Cloud Platform          | Microsoft Azure                                |
+| Infrastructure as Code  | Terraform                                      |
+| Terraform Fundamentals  | Providers, Resources, Data Sources             |
+| Variables & Expressions | Variables, Locals, Maps, Objects               |
+| Meta-Arguments          | `for_each`, `count`, `lifecycle`, `depends_on` |
+| State Management        | Remote State, Azure Storage Backend            |
+| Module Development      | Reusable Parent & Child Modules                |
+| Azure Networking        | Virtual Networks, Subnets, Network Interfaces  |
+| Azure Compute           | Virtual Machines, VM Scale Sets                |
+| Azure Services          | Resource Groups, Storage Accounts, Key Vault   |
+| Cloud Architecture      | Azure Landing Zone Concepts                    |
+| CI/CD Automation        | YAML Pipelines, GitHub Actions                 |
 
 ---
 
 ## ⚙️ DevOps & CI/CD Automation
 
-<div align="center">
+\<div align="center">
 
-<img src="assets/pipeline.svg" width="100%" alt="DevOps CI/CD pipeline architecture"/>
+\<img src="assets/pipeline.svg" width="100%" alt="DevOps CI/CD Pipeline Architecture"/>
 
-</div>
+\</div>
 
-My automation focus:
+**Automation and workflow focus:**
 
-- Terraform formatting and validation
-- GitHub Actions workflows
-- YAML pipeline development
-- Infrastructure security checks
-- Automated Terraform planning
-- Version-controlled infrastructure changes
+- Terraform formatting and configuration validation.
+- Infrastructure provisioning workflows.
+- Git and GitHub-based version control.
+- YAML pipeline development and automation.
+- GitHub Actions workflow configuration.
+- Automated Terraform planning.
+- Infrastructure security scanning and validation.
+- Version-controlled infrastructure changes.
 
 ---
 
-## 📂 Featured GitHub Projects
+## 📂 Featured Projects
 
 ### 01. Terraform Cloud Infrastructure
 
-Azure cloud infrastructure and Terraform module development.
+Azure cloud infrastructure management using Terraform, with a focus on infrastructure organization and automation.
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/achikhussain12/terraform-cloud-infrastructure)
+
 
 ### 02. Terraform Azure Modules
 
-Reusable Terraform modules for Azure infrastructure.
+Terraform module development focused on reusable and organized Azure infrastructure components.
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/achikhussain12/terraform-azure-modules)
 
-### 03. Terraform Landing Zone
 
-Terraform-based Azure Landing Zone learning and implementation.
+### 03. Terraform Azure Landing Zone
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/achikhussain12/Terraform-Landing-Zone)
+Exploring Azure Landing Zone architecture and Terraform-based infrastructure organization.
 
-### 04. Parent & Child Modules
 
-Practical Terraform module structure and reusable infrastructure components.
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/achikhussain12/Child-Parent-Modules)
+### 04. Parent & Child Terraform Modules
+
+Practical exploration of parent-child module structures and reusable Terraform configurations.
+
+
 
 ---
 
 ## 🐍 GitHub Contribution Activity
 
-<div align="center">
+\<div align="center">
 
-<img src="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+\<img src="[https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg)" width="100%" alt="GitHub Contribution Snake"/>
 
-</div>
+\</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=achikhussain12&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+\<img src="[https://github-readme-stats.vercel.app/api?username=achikhussain12&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=achikhussain12\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Most Used Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=achikhussain12&theme=tokyonight&hide_border=true" width="70%"/>
+\<img src="[https://streak-stats.demolab.com?user=achikhussain12&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=achikhussain12\&theme=tokyonight\&hide_border=true)" width="70%" alt="GitHub Contribution Streak"/>
 
-</div>
+\</div>
 
 ---
 
-## 🎯 Currently Learning & Improving
+## 🎯 Continuous Learning & Development
 
-- Advanced Terraform and reusable modules
-- Azure Landing Zone architecture
-- Azure Cloud Infrastructure
-- GitHub Actions and YAML Pipelines
-- DevSecOps security automation
-- CI/CD best practices
-- Cloud governance and infrastructure security
+- Advanced Terraform and reusable module development.
+- Microsoft Azure infrastructure architecture.
+- Azure Landing Zone design concepts.
+- GitHub Actions and YAML CI/CD automation.
+- DevSecOps and infrastructure security practices.
+- Cloud governance and security controls.
+- Infrastructure automation and deployment standardization.
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+\<div align="center">
 
-### Have a project or opportunity? Let's connect!
+### Open to learning, collaboration and professional opportunities.
 
-| Contact | Details |
-|---|---|
-| 👤 Name | Achik Hussain |
-| 💼 Role | Junior DevSecOps Engineer / Junior Cloud Engineer |
-| 📧 Email | [hussainachik456@gmail.com](mailto:hussainachik456@gmail.com) |
-| 📱 Mobile | [+91 87248 72091](tel:+918724872091) |
-| 🔗 LinkedIn | [Achik Hussain](https://www.linkedin.com/in/achik-hussain/) |
-| 🐙 GitHub | [achikhussain12](https://github.com/achikhussain12) |
+**Achik Hussain**
+DevOps & Cloud Infrastructure Engineer
 
-</div>
+Assam, India
+
+\<a href="mailto\:hussainachik456\@gmail.com">Email\</a> ·
+\<a href="[https://www.linkedin.com/in/achik-hussain/](https://www.linkedin.com/in/achik-hussain/)">LinkedIn\</a> ·
+\<a href="[https://github.com/achikhussain12](https://github.com/achikhussain12)">GitHub\</a>
+
+\</div>
+
+---
+
+\<div align="center">
+
+**Always Learning. Always Building. Always Automating.**
+
+\</div>
 
 ---
 
