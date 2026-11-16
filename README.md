@@ -12,13 +12,13 @@
 
 ### DevOps & Cloud Infrastructure Engineer
 
-**Assam, India** · **B.Tech Computer Science** · **Azure | Terraform | Secure CI/CD**
+**Assam, India** · **Diploma in  Computer Science and Engineering** · **Azure | Terraform | Secure CI/CD**
 
 **📧 [hussainachik456@gmail.com](mailto:hussainachik456@gmail.com)** &nbsp; | &nbsp; **📱 +91 8724872091**
 
 **💼 [LinkedIn](https://www.linkedin.com/in/achik-hussain/)** &nbsp; | &nbsp; **💻 [GitHub](https://github.com/achikhussain12)**
 
-<a href="tel:+918876280335"><img src="https://img.shields.io/badge/Call-%2B91%208876280335-155E75?style=for-the-badge&logoColor=white" alt="Call +91 8876280335" /></a>
+<a href="tel:+918724872091"><img src="https://img.shields.io/badge/Call-%2B91%208876280335-155E75?style=for-the-badge&logoColor=white" alt="Call +91 8724872091" /></a>
 
 <sub>☁️ CLOUD ENGINEERING &nbsp; • &nbsp; 🛡️ SECURITY BY DESIGN &nbsp; • &nbsp; ⚙️ AUTOMATION FIRST</sub>
 
@@ -74,7 +74,7 @@ My focus is on **repeatable infrastructure, secure delivery pipelines, and pract
 | | |
 |:--|:--|
 | 📍 Based in | Assam, India |
-| 🎓 Education | B.Tech · Computer Science |
+| 🎓 Education | Diploma in  · Computer Science and Engineering |
 | ☁️ Cloud | Microsoft Azure |
 | 🧱 IaC | Terraform |
 | 🔁 Delivery | Azure DevOps · GitHub Actions |
@@ -138,7 +138,7 @@ My focus is on **repeatable infrastructure, secure delivery pipelines, and pract
 ## 🚀 Selected projects & practical experience
 
 <div align="center">
-<img src="assets/pipeline.svg" width="100%" alt="Cloud DevSecOps pipeline diagram" />
+<img src="assets/pipeline.svg" width="100%" alt="Cloud DevOps pipeline diagram" />
 </div>
 
 
@@ -259,8 +259,8 @@ flowchart TD
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaskardeka-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskardeka-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top GitHub languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=achikhussain12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achikhussain12&layout=compact&theme=tokyonight&hide_border=true" alt="Top GitHub languages" />
 
 <br />
 
@@ -279,7 +279,7 @@ flowchart TD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/bhaskardeka-cloud/bhaskardeka-cloud/output/github-contribution-grid-snake.svg" alt="Contribution snake animation after GitHub Actions workflow runs" />
+  <img width="100%" src="https://raw.githubusercontent.com/achikhussain12/achikhussain12/output/github-contribution-grid-snake.svg" alt="Contribution snake animation after GitHub Actions workflow runs" />
 </picture>
 
 </div>
@@ -302,7 +302,7 @@ $ philosophy --show
 
 ---
 
-## 🧭 Cloud & DevSecOps engineering handbook
+## 🧭 Cloud & DevOps engineering handbook
 
 <details>
 <summary><b>Open the hands-on playbook: Azure, Terraform, pipelines, security, cost and troubleshooting</b></summary>
