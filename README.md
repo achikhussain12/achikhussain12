@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&height=65&lines=Azure+Cloud+%7C+Terraform+%7C+DevSecOps;Secure+CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;Automate+%E2%86%92+Scan+%E2%86%92+Approve+%E2%86%92+Deploy;Always+Learning+%E2%80%A2+Always+Building" alt="Animated cloud engineering introduction" />
 
-<a href="https://github.com/achikhussain12"><img src="https://img.shields.io/badge/GITHUB-bhaskardeka--cloud-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/achikhussain12"><img src="https://img.shields.io/badge/GITHUB-achikhussain12--cloud-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/achik-hussain/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hussainachik456@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=achikhussain12&style=for-the-badge&color=7c3aed&label=VISITORS" alt="Profile views" />
@@ -18,7 +18,7 @@
 
 **💼 [LinkedIn](https://www.linkedin.com/in/achik-hussain/)** &nbsp; | &nbsp; **💻 [GitHub](https://github.com/achikhussain12)**
 
-<a href="tel:+918724872091"><img src="https://img.shields.io/badge/Call-%2B91%208876280335-155E75?style=for-the-badge&logoColor=white" alt="Call +91 8724872091" /></a>
+<a href="tel:+918724872091"><img src="https://img.shields.io/badge/Call-%2B91%208724872091-155E75?style=for-the-badge&logoColor=white" alt="Call +91 8724872091" /></a>
 
 <sub>☁️ CLOUD ENGINEERING &nbsp; • &nbsp; 🛡️ SECURITY BY DESIGN &nbsp; • &nbsp; ⚙️ AUTOMATION FIRST</sub>
 
